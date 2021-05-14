@@ -55,5 +55,6 @@ This file is used to define the categories of different factors and other parame
 
 ## backtest result
 Here use the CSI800 as stock pools and the benchmark is CSI800.
+
 Annual Return: 29.10%; Volatility: 24.43%; Maximum drawdown: 22.57%; Sharpe: 1.07;
 ![image](https://github.com/algo21-220040022/Neural_Network_Factor_Mining/blob/main/picture/backtest_reuslt.png.png)
