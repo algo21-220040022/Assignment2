@@ -52,4 +52,5 @@ This file is used to generate both some technical data and the final neural netw
 This file is used to define the categories of different factors and other parameters.
 
 ## backtest result
+Annual Return: 29.10%; Volatility: 24.43%; Maximum drawdown: 22.57%; Sharpe: 1.07;
 ![image](https://github.com/algo21-220040022/Neural_Network_Factor_Mining/blob/main/picture/backtest_reuslt.png.png)
