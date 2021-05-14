@@ -1,6 +1,7 @@
 # Neural_Network_Factor_Mining
 
 This project utilizes the evolutionary neural network to mine some new factors from general factors.
+
 The evolutionary neural network employs the genetic algorithm idea to train the network. Here the objective of the training is the Rank IC of the new factor. So the aim of this method is to find the best neural network structure (that is, with highest rank IC) to generate new factors. Here show the general process of evolutionary neural network.
 ![image](https://github.com/algo21-220040022/Neural_Network_Factor_Mining/blob/main/picture/evolution%20neural%20network.jpg)
 
