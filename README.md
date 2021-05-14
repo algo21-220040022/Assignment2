@@ -1,7 +1,8 @@
 # Neural_Network_Factor_Mining
 
 This project utilizes the evolutionary neural network to mine some new factors from general factors.
-The evolutionary neural network employs the genetic algorithm idea to train the network. Here the objective of the training is the Rank IC of the new factor. So the aim of this method is to find the best neural network structure (that is, with highest rank IC) to generate new factors.
+The evolutionary neural network employs the genetic algorithm idea to train the network. Here the objective of the training is the Rank IC of the new factor. So the aim of this method is to find the best neural network structure (that is, with highest rank IC) to generate new factors. Here show the general process of evolutionary neural network.
+![image](https://github.com/algo21-220040022/Neural_Network_Factor_Mining/blob/main/picture/evolution%20neural%20network.jpg)
 
 ## backtest_result
 This folder is used to store the backtest results.
@@ -52,5 +53,6 @@ This file is used to generate both some technical data and the final neural netw
 This file is used to define the categories of different factors and other parameters.
 
 ## backtest result
+Here use the CSI800 as stock pools and the benchmark is CSI800.
 Annual Return: 29.10%; Volatility: 24.43%; Maximum drawdown: 22.57%; Sharpe: 1.07;
 ![image](https://github.com/algo21-220040022/Neural_Network_Factor_Mining/blob/main/picture/backtest_reuslt.png.png)
