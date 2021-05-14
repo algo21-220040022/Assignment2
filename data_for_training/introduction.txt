@@ -1,0 +1,1 @@
+This folder is used to store the data used in evolutionary neural network training.
