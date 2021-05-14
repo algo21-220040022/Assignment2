@@ -1,0 +1,1 @@
+This folder is used to store the yearly raw factor data. In my old computer, the whole raw data file is too big to load in Python, so I divide it into yearly file. While it is not neccesary in my new computer for it has larger RAM.
